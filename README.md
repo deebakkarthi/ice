@@ -1,1 +1,4 @@
 # ice
+
+# Dependencies
+`libcurl`
