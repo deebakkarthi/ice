@@ -1,4 +1,4 @@
-CFLAGS=-std=c89 -Wall -Wextra -Werror -Wshadow -Wconversion \
+CFLAGS=-std=c89 -Wall -pedantic -Wextra -Werror -Wshadow -Wconversion \
        -Wno-unused-variable -Wno-unused-but-set-variable -Wno-unused-parameter
 LDFLAGS=-lcurl
 
